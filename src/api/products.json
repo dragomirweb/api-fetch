@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Product 1",
+    "image": "https://via.placeholder.com/300x300",
+    "price": "3.22",
+    "purchasable": false
+  },
+  {
+    "title": "Product 2",
+    "image": "https://via.placeholder.com/300x300",
+    "price": "3.22",
+    "purchasable": true
+  },
+  {
+    "title": "Product 3",
+    "image": "https://via.placeholder.com/300x300",
+    "price": "3.22",
+    "purchasable": false
+  },
+  {
+    "title": "Product 4",
+    "image": "https://via.placeholder.com/300x300",
+    "price": "3.22",
+    "purchasable": false
+  },
+  {
+    "title": "Product 5",
+    "image": "https://via.placeholder.com/300x300",
+    "price": "3.22",
+    "purchasable": false
+  },
+  {
+    "title": "Product 6",
+    "image": "https://via.placeholder.com/300x300",
+    "price": "3.22",
+    "purchasable": false
+  }
+]

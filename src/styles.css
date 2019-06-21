@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+}
+
+.card-deck .card {
+  width: calc(25% - 30px);
+  min-width: calc(25% - 30px);
+  max-width: calc(25% - 30px);
+  margin-bottom: 15px;
+}
